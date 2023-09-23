@@ -1,4 +1,4 @@
-# Test unit for checking the functionality of the cluster
+# Unit testing for checking the functionality of the cluster
 
 To build the  Docker Image:
 
